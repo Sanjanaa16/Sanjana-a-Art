@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">Denartist emblem</title>
+  <desc id="desc">A tooth outline meeting an artist brush with colorful paint splash accents.</desc>
+  <defs>
+    <linearGradient id="ivoryStroke" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff9ef"/>
+      <stop offset="100%" stop-color="#efd6a3"/>
+    </linearGradient>
+    <linearGradient id="goldStroke" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffe0a6"/>
+      <stop offset="30%" stop-color="#cfa24a"/>
+      <stop offset="70%" stop-color="#f7d382"/>
+      <stop offset="100%" stop-color="#7c4f16"/>
+    </linearGradient>
+    <linearGradient id="brushMetal" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f0cb77"/>
+      <stop offset="100%" stop-color="#9c6920"/>
+    </linearGradient>
+    <linearGradient id="bristle" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f0c470"/>
+      <stop offset="55%" stop-color="#9f4c2f"/>
+      <stop offset="100%" stop-color="#3f140f"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#000" flood-opacity=".28"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#glow)">
+    <path d="M213 118
+             C126 121 92 217 124 284
+             C151 340 153 430 154 510
+             C155 556 199 569 219 528
+             C237 491 229 394 229 343
+             C229 292 267 250 313 250
+             C364 250 400 290 403 345
+             C406 392 402 497 421 532
+             C440 567 487 552 491 501
+             C498 416 490 341 525 272
+             C564 196 510 116 414 116
+             C378 116 350 129 325 139
+             C297 151 264 117 213 118Z"
+          fill="none"
+          stroke="url(#ivoryStroke)"
+          stroke-width="18"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+
+    <path d="M344 129
+             C395 109 461 111 506 142
+             C542 168 557 207 552 252
+             C546 311 507 340 485 381
+             C465 419 454 461 455 520"
+          fill="none"
+          stroke="url(#goldStroke)"
+          stroke-width="22"
+          stroke-linecap="round"/>
+
+    <path d="M474 204
+             C507 204 545 226 565 257
+             C584 289 583 329 565 353
+             C546 332 512 323 481 328
+             C452 333 427 351 409 378
+             C413 318 436 273 474 204Z"
+          fill="#0d1728"
+          opacity=".15"/>
+
+    <path d="M447 253
+             C486 242 522 247 557 266
+             C538 287 520 309 505 333
+             C487 360 473 388 461 422
+             C449 390 430 360 404 337
+             C420 306 431 281 447 253Z"
+          fill="#254b79"
+          opacity=".92"/>
+    <path d="M431 297
+             C466 289 500 298 529 318
+             C510 337 494 356 479 381
+             C465 405 454 426 445 456
+             C433 427 418 403 393 381
+             C406 350 418 323 431 297Z"
+          fill="#3e7b82"
+          opacity=".92"/>
+    <path d="M463 172
+             C506 176 547 205 568 238
+             C553 249 536 268 524 289
+             C507 318 496 341 485 375
+             C469 332 453 291 423 252
+             C436 219 448 195 463 172Z"
+          fill="#c5813c"
+          opacity=".94"/>
+    <path d="M493 198
+             C523 201 557 218 580 246
+             C574 256 568 271 565 286
+             C547 279 530 278 514 283
+             C499 287 487 295 474 307
+             C474 267 479 232 493 198Z"
+          fill="#8d3140"
+          opacity=".84"/>
+
+    <circle cx="542" cy="174" r="8" fill="#edc56d"/>
+    <circle cx="579" cy="225" r="11" fill="#edc56d"/>
+    <circle cx="547" cy="290" r="7" fill="#7bbec3"/>
+    <circle cx="603" cy="265" r="5" fill="#6f8dc8"/>
+    <circle cx="513" cy="360" r="14" fill="#7cc3c7"/>
+    <circle cx="481" cy="404" r="8" fill="#e7b855"/>
+    <circle cx="439" cy="432" r="6" fill="#edc56d"/>
+    <circle cx="513" cy="228" r="13" fill="#9b4450" opacity=".95"/>
+
+    <path d="M468 476
+             L500 476
+             L507 522
+             L461 522Z"
+          fill="url(#brushMetal)"/>
+    <path d="M459 522
+             C461 573 490 593 483 622
+             C469 615 446 601 437 568
+             C431 547 435 535 459 522Z"
+          fill="url(#bristle)"/>
+    <path d="M476 618 C479 629 470 635 461 635 C456 629 458 621 466 615Z" fill="#a74635"/>
+  </g>
+</svg>
